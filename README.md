@@ -4,7 +4,7 @@ The Invisible Influence Detector is a C console program that shows how outside p
 ## Project Working Screenshots
 
 ### 1. Program Execution
-![Program Running](screenshots/program-running.png)
+
 
 ### 2. Simulation Output
-![Simulation Working](screenshots/simulation-output.png)
+
