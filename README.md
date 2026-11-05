@@ -10,6 +10,9 @@ The Invisible Influence Detector is a C console program that shows how outside p
 ### 2. Simulation Output
 <img width="960" height="600" alt="Screenshot 2026-10-30 113254" src="https://github.com/user-attachments/assets/ae6dc868-7495-49f6-ad0c-3c29c6392c0c" />
 
+
+<img width="1033" height="600" alt="image" src="https://github.com/user-attachments/assets/d152904d-1721-4dfd-9312-caa0527fdd99" />
+
 # The Invisible Influence Detector
 
 **Are your decisions really your own?**
